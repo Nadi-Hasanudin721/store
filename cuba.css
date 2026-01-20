@@ -1,25 +1,26 @@
-.container {
+
+.container8 {
             display: flex;
             justify-content: center;
             margin-top: 20px;
             gap: 20px;
         }
-.container2 {
+.container7 {
             display: flex;
             justify-content: center;
             margin-top: 20px;
             gap: 20px;
         }
-        .ka {
-            width: 270px;
-            height: 450px;
+        .ya {
+            width: 450px;
+            height: 500px;
             overflow: hidden;
             border-radius:10px;
             box-shadow: 0px 1px 2px;
         }
-        .ka img {
-            width: 320px;
-            height: 300px;
+        .ya img {
+            width: 270px;
+            height: 270px;
             margin-bottom: 10px;
         }
         
@@ -34,7 +35,8 @@
             margin-top: -5px;
         }
         
- .btn-grad {background-image: linear-gradient(to right, #16222A 0%, #3A6073  51%, #16222A  100%)}
+
+         .btn-grad {background-image: linear-gradient(to right, #16222A 0%, #3A6073  51%, #16222A  100%)}
          .btn-grad {
             margin: 10px;
             padding: 15px 45px;
@@ -53,8 +55,13 @@
             color: #fff;
             text-decoration: none;
           }
-          .container2 {
+          .container8 {
             display: flex;
             justify-content: center;
+          }
+          .yahu {
+            display: flex;
+            justify-content: center;
+            gap: inherit;
           }
          
